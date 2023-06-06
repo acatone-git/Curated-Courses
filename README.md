@@ -1,6 +1,6 @@
 # Free Online Courses (Curated List)
 
-- Last Update : 06/06/2023 -
+- Last Update : 06/06/2023
 
 | Course Link | LinkedIn Badge  | Digital Certificate | Certificate Cost | Provider | Topic(s) |
 |     :---:    |     :---:      |     :---:     |     :---:     |     :---:     |     :---:     |
