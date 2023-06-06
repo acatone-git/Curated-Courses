@@ -1,4 +1,4 @@
-# Free Online Courses (A Curated List)
+# Free Online Courses (Curated List)
 
 | Course Link | LinkedIn Badge  | Digital Certificate | Certificate Cost | Provider | Topic(s) |
 |     :---:    |     :---:      |     :---:     |     :---:     |     :---:     |     :---:     |
