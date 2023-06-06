@@ -11,6 +11,6 @@
 | https://skillsforall.com/catalog?category=career+path | :heavy_check_mark: | :heavy_check_mark: | Free / Paid | Cisco  | CyberSec, Network Engineering |
 | https://go.rangeforce.com/community-edition-registration | :heavy_check_mark: | :heavy_check_mark: | Free | Rangeforce  | CyberSec |
 | https://www.eccouncil.org/train-certify/essentials | :heavy_check_mark: | :heavy_check_mark: | Free | EC Council  | CyberSec |
-| https://www.taitradioacademy.com/courses/| :x: | :heavy_check_mark: | Free | Tait  | Radio & Telecom |
+| https://www.taitradioacademy.com/courses/| :x: | :heavy_check_mark: | Free | Tait Communications  | Radio & Telecom |
 | https://pll.harvard.edu/catalog?keywords=cs50 | :x: | :heavy_check_mark: | Free / Paid | Harvard  | Computer Science, Software Development |
 
