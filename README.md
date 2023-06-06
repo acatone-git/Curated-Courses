@@ -1,4 +1,4 @@
-# Free Online Courses (Curated List)
+# Free Online Courses (A Curated List)
 
 - Sharable URL: [dub.sh/curated-courses](https://dub.sh/curated-courses)
 - Last Update : 06/06/2023
