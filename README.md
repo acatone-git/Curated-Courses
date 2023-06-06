@@ -1,4 +1,4 @@
-# Curated Courses 
+# Curated List of Online Courses 
 
 | Link | LinkedIn Badge  | Certificate Cost | Topic |
 |     :---:    |     :---:      |     :---:     |     :---:     |
