@@ -1,13 +1,14 @@
 # Free Online Courses (A Curated List)
 
 - Shareable URL: [dub.sh/curated-courses](https://dub.sh/curated-courses)
-- Last Update : 06/06/2023
+- Last Update : 10/12/2023
 
 | Course Link | LinkedIn Badge  | Digital Certificate | Certificate Cost | Provider | Topic(s) |
 |     :---:    |     :---:      |     :---:     |     :---:     |     :---:     |     :---:     |
 | https://opportunity.linkedin.com/skills-for-in-demand-jobs   | :heavy_check_mark: | :heavy_check_mark: | Free | Microsoft & LinkedIn  | Systems Administration, Software Development, Data Analysis, Project Management & More |
 | https://cognitiveclass.ai/courses | :heavy_check_mark: | :heavy_check_mark: | Free | IBM  | Data Analysis, AI, Software Development & More |
 | https://skills.yourlearning.ibm.com/search/activities/q=ylTagIds%3A%22Fundamentals-0001%22 | :heavy_check_mark: | :heavy_check_mark: | Free | IBM  | CyberSec, System Administration, PM, AI |
+| https://www.ibm.com/design/thinking/ | :heavy_check_mark: | :heavy_check_mark: | Free | IBM  | Project Management |
 | https://stormsurge-catalog.skillstorm.com/?filters%5B%5D=certificate | :heavy_check_mark: | :heavy_check_mark: | Free | Stormsurge  | Software Development, Databases & SQL |
 | https://training.linuxfoundation.org/resources/?_sft_content_type=free-course| :heavy_check_mark: | :heavy_check_mark: | Free | The Linux Foundation  | CyberSec, Systen Administration, Linux |
 | https://skillsforall.com/catalog?category=career+path | :heavy_check_mark: | :heavy_check_mark: | Free / Paid | Cisco  | CyberSec, Network Engineering |
