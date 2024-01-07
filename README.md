@@ -5,7 +5,7 @@
 
 | Course Link | LinkedIn Badge  | Digital Certificate | Certificate Cost | Provider | Topic(s) |
 |     :---:    |     :---:      |     :---:     |     :---:     |     :---:     |     :---:     |
-| https://opportunity.linkedin.com/skills-for-in-demand-jobs   | :heavy_check_mark: | :heavy_check_mark: | Free | Microsoft & LinkedIn  | Systems Administration, Software Development, Data Analysis, Project Management & More |
+| https://learn.microsoft.com/en-us/collections/w1n3tymqjggp88| :heavy_check_mark: | :heavy_check_mark: | Free | Microsoft | Systems Administration |
 | https://cognitiveclass.ai/courses | :heavy_check_mark: | :heavy_check_mark: | Free | IBM  | Data Analysis, AI, Software Development & More |
 | https://skills.yourlearning.ibm.com/search/activities/q=ylTagIds%3A%22Fundamentals-0001%22 | :heavy_check_mark: | :heavy_check_mark: | Free | IBM  | CyberSec, System Administration, PM, AI |
 | https://www.ibm.com/design/thinking/ | :heavy_check_mark: | :heavy_check_mark: | Free | IBM  | Product Design & Project Management |
