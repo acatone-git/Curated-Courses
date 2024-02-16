@@ -5,7 +5,7 @@
 
 | Course Link | LinkedIn Badge  | Digital Certificate | Certificate Cost | Provider | Topic(s) |
 |     :---:    |     :---:      |     :---:     |     :---:     |     :---:     |     :---:     |
-| https://aka.ms/azureclx| :heavy_check_mark: | :heavy_check_mark: | Free | Microsoft & CloudLabs| Systems Administration, AI, Data |
+| https://aka.ms/azureclx| :heavy_check_mark: | :heavy_check_mark: | Free / Paid | Microsoft & CloudLabs| Systems Administration, AI, Data |
 | https://cognitiveclass.ai/courses | :heavy_check_mark: | :heavy_check_mark: | Free | IBM  | Data Analysis, AI, Software Development & More |
 | https://skills.yourlearning.ibm.com/ | :heavy_check_mark: | :heavy_check_mark: | Free | IBM  | CyberSec, System Administration, PM, AI |
 | https://www.ibm.com/design/thinking/ | :heavy_check_mark: | :heavy_check_mark: | Free | IBM  | Product Design & Project Management |
