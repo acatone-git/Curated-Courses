@@ -1,7 +1,7 @@
 # Free Online Courses (A Curated List)
 
 - Shareable URL: [dub.sh/curated-courses](https://dub.sh/curated-courses)
-- Last Update : 09/01/2024
+- Last Update : 16/02/2024
 
 | Course Link | LinkedIn Badge  | Digital Certificate | Certificate Cost | Provider | Topic(s) |
 |     :---:    |     :---:      |     :---:     |     :---:     |     :---:     |     :---:     |
