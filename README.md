@@ -6,9 +6,7 @@
 | Course Link | LinkedIn Badge  | Digital Certificate | Certificate Cost | Provider | Topic(s) |
 |     :---:    |     :---:      |     :---:     |     :---:     |     :---:     |     :---:     |
 | https://aka.ms/CertificationsPoster & https://aka.ms/azureclx| :heavy_check_mark: | :heavy_check_mark: | Free / Paid | Microsoft & CloudLabs| Systems Administration, AI, Data |
-| https://cognitiveclass.ai/courses | :heavy_check_mark: | :heavy_check_mark: | Free | IBM  | Data Analysis, AI, Software Development & More |
-| https://skills.yourlearning.ibm.com/ | :heavy_check_mark: | :heavy_check_mark: | Free | IBM  | CyberSec, System Administration, PM, AI |
-| https://www.ibm.com/design/thinking/ | :heavy_check_mark: | :heavy_check_mark: | Free | IBM  | Product Design & Project Management |
+| https://cognitiveclass.ai/courses & https://skills.yourlearning.ibm.com/ & https://www.ibm.com/design/thinking/ | :heavy_check_mark: | :heavy_check_mark: | Free | IBM  | Data Analysis, AI, Software Development & More |
 | https://stormsurge-catalog.skillstorm.com/?filters%5B%5D=certificate | :heavy_check_mark: | :heavy_check_mark: | Free | Stormsurge  | Software Development, Databases & SQL |
 | https://training.linuxfoundation.org/resources/?_sft_content_type=free-course| :heavy_check_mark: | :heavy_check_mark: | Free | The Linux Foundation  | CyberSec, Systen Administration, Linux |
 | https://skillsforall.com/catalog?category=career+path | :heavy_check_mark: | :heavy_check_mark: | Free / Paid | Cisco  | CyberSec, Network Engineering |
