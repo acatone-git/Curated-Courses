@@ -15,7 +15,7 @@
 | https://www.aws.training/certification | :heavy_check_mark: | :heavy_check_mark: | Free / Paid | Amazon (AWS)  | Network Engineering, Cloud, DevOps |
 | https://go.rangeforce.com/community-edition-registration | :heavy_check_mark: | :heavy_check_mark: | Free | Rangeforce  | CyberSec |
 | https://www.eccouncil.org/train-certify/essentials | :heavy_check_mark: | :heavy_check_mark: | Free | EC Council  | CyberSec |
-| https://www.netdevgroup.com/online/courses?vendor=VMware | :heavy_check_mark: | :heavy_check_mark: | Free | VMWare & NetDevGroup  | Virtualization, Cyber, Linux |
+| https://www.netdevgroup.com/online/courses?vendor=VMware | :heavy_check_mark: | :heavy_check_mark: | Free | VMWare & NetDevGroup  | Virtualization, CyberSec, Linux |
 | https://www.taitradioacademy.com/courses/| :x: | :heavy_check_mark: | Free | Tait Communications  | Radio & Telecom |
 | https://pll.harvard.edu/catalog?keywords=cs50 | :x: | :heavy_check_mark: | Free / Paid | Harvard  | Computer Science, Software Development |
 | https://europe.s2sacademy.com/about-academy/ | :x: | :x: | Free | Accenture  | CV Building, Soft Skills |
