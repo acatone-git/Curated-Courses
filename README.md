@@ -10,7 +10,7 @@
 | https://stormsurge-catalog.skillstorm.com/?filters%5B%5D=certificate | :heavy_check_mark: | :heavy_check_mark: | Free | Stormsurge  | Software Development, Databases & SQL |
 | https://training.linuxfoundation.org/resources/?_sft_content_type=free-course| :heavy_check_mark: | :heavy_check_mark: | Free | The Linux Foundation  | CyberSec, Systen Administration, Linux |
 | https://skillsforall.com/catalog?category=career+path | :heavy_check_mark: | :heavy_check_mark: | Free / Paid | Cisco  | CyberSec, Network Engineering |
-| https://www.aws.training/certification | :heavy_check_mark: | :heavy_check_mark: | Free / Paid | Amazon (AWS)  | Network Engineering, Cloud, DevOps |
+| https://aws.amazon.com/training/learn-about/ & https://www.aws.training/certification | :heavy_check_mark: | :heavy_check_mark: | Free / Paid | Amazon (AWS)  | Network Engineering, Cloud, DevOps |
 | https://go.rangeforce.com/community-edition-registration | :heavy_check_mark: | :heavy_check_mark: | Free | Rangeforce  | CyberSec |
 | https://www.eccouncil.org/train-certify/essentials | :heavy_check_mark: | :heavy_check_mark: | Free | EC Council  | CyberSec |
 | https://www.netdevgroup.com/online/courses?vendor=VMware | :heavy_check_mark: | :heavy_check_mark: | Free | VMWare & NetDevGroup  | Virtualization, CyberSec, Linux |
