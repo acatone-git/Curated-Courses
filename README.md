@@ -12,7 +12,7 @@
 | https://skillsforall.com/catalog?category=career+path | :heavy_check_mark: | :heavy_check_mark: | Free / Paid | Cisco  | CyberSec, Network Engineering |
 | https://aws.amazon.com/training/learn-about/ & https://www.aws.training/certification | :heavy_check_mark: | :heavy_check_mark: | Free / Paid | Amazon (AWS)  | Network Engineering, Cloud, DevOps |
 | https://go.rangeforce.com/community-edition-registration | :heavy_check_mark: | :heavy_check_mark: | Free | Rangeforce  | CyberSec |
-| https://www.isc2.org/landing/1mcc | :heavy_check_mark: | :heavy_check_mark: | Free | ISC2 | CyberSec |
+| https://www.isc2.org/landing/1mcc | :heavy_check_mark: | :heavy_check_mark: | Free / Paid | ISC2 | CyberSec |
 | https://www.eccouncil.org/train-certify/essentials | :heavy_check_mark: | :heavy_check_mark: | Free | EC Council  | CyberSec |
 | https://www.netdevgroup.com/online/courses?vendor=VMware | :heavy_check_mark: | :heavy_check_mark: | Free | VMWare & NetDevGroup  | Virtualization, CyberSec, Linux |
 | https://www.taitradioacademy.com/courses/| :x: | :heavy_check_mark: | Free | Tait Communications  | Radio & Telecom |
