@@ -1,17 +1,17 @@
 # Free Online Courses (A Curated List)
 
 - Shareable URL: [dub.sh/curated-courses](https://dub.sh/curated-courses)
-- Last Update : 19/03/2024
+- Last Update : 17/07/2024
 
 | Course Link | LinkedIn Badge  | Digital Certificate | Certificate Cost | Provider | Topic(s) |
 |     :---:    |     :---:      |     :---:     |     :---:     |     :---:     |     :---:     |
-| https://aka.ms/CertificationsPoster & https://aka.ms/azureclx| :heavy_check_mark: | :heavy_check_mark: | Free / Paid | Microsoft & CloudLabs| Systems Administration, AI, Data |
+| https://aka.ms/CertificationsPoster| :heavy_check_mark: | :heavy_check_mark: | Free | Microsoft | Systems Administration, AI, Data |
 | https://cognitiveclass.ai/courses & https://skills.yourlearning.ibm.com/ & https://www.ibm.com/design/thinking/ | :heavy_check_mark: | :heavy_check_mark: | Free | IBM  | Data Analysis, AI, Software Development & More |
-| https://stormsurge-catalog.skillstorm.com/?filters%5B%5D=certificate | :heavy_check_mark: | :heavy_check_mark: | Free | Stormsurge  | Software Development, Databases & SQL |
 | https://training.linuxfoundation.org/resources/?_sft_content_type=free-course| :heavy_check_mark: | :heavy_check_mark: | Free | The Linux Foundation  | CyberSec, Systen Administration, Linux |
-| https://skillsforall.com/catalog?category=career+path | :heavy_check_mark: | :heavy_check_mark: | Free / Paid | Cisco  | CyberSec, Network Engineering |
+| https://www.netacad.com/catalogs/learn | :heavy_check_mark: | :heavy_check_mark: | Free / Paid | Cisco  | CyberSec, Network Engineering |
 | https://aws.amazon.com/training/learn-about/ & https://www.aws.training/certification | :heavy_check_mark: | :heavy_check_mark: | Free / Paid | Amazon (AWS)  | Network Engineering, Cloud, DevOps |
-| https://go.rangeforce.com/community-edition-registration | :heavy_check_mark: | :heavy_check_mark: | Free | Rangeforce  | CyberSec |
+| https://alison.com/courses/it | :heavy_check_mark: | :heavy_check_mark: | Free | Alison  | CyberSec, Programming, Linux & More |
+| https://www.rangeforce.com/free-edition | :heavy_check_mark: | :heavy_check_mark: | Free | Rangeforce  | CyberSec |
 | https://www.isc2.org/landing/1mcc | :heavy_check_mark: | :heavy_check_mark: | Free / Paid | ISC2 | CyberSec |
 | https://www.eccouncil.org/train-certify/essentials | :heavy_check_mark: | :heavy_check_mark: | Free | EC Council  | CyberSec |
 | https://www.netdevgroup.com/online/courses?vendor=VMware | :heavy_check_mark: | :heavy_check_mark: | Free | VMWare & NetDevGroup  | Virtualization, CyberSec, Linux |
