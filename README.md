@@ -9,7 +9,7 @@
 | https://cognitiveclass.ai/courses & https://skills.yourlearning.ibm.com/ & https://www.ibm.com/design/thinking/ | :heavy_check_mark: | :heavy_check_mark: | Free | IBM  | Data Analysis, AI, Software Development & More |
 | https://training.linuxfoundation.org/resources/?_sft_content_type=free-course| :heavy_check_mark: | :heavy_check_mark: | Free | The Linux Foundation  | CyberSec, Systen Administration, Linux |
 | https://www.netacad.com/catalogs/learn | :heavy_check_mark: | :heavy_check_mark: | Free / Paid | Cisco  | CyberSec, Network Engineering |
-| https://aws.amazon.com/training/learn-about/ & https://www.aws.training/certification | :heavy_check_mark: | :heavy_check_mark: | Free / Paid | Amazon (AWS)  | Network Engineering, Cloud, DevOps |
+| https://aws.amazon.com/training/learn-about/ & https://skillbuilder.aws/?cta=free | :heavy_check_mark: | :heavy_check_mark: | Free / Paid | Amazon (AWS)  | Network Engineering, Cloud, DevOps |
 | https://alison.com/courses/it | :heavy_check_mark: | :heavy_check_mark: | Free | Alison  | CyberSec, Programming, Linux & More |
 | https://www.rangeforce.com/free-edition | :heavy_check_mark: | :heavy_check_mark: | Free | Rangeforce  | CyberSec |
 | https://www.isc2.org/landing/1mcc | :heavy_check_mark: | :heavy_check_mark: | Free / Paid | ISC2 | CyberSec |
